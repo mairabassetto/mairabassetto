@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hi, 👋 I'm Maíra Bassetto </h1>
+
+- 👨‍💻 I’m currently starting programming
+
+- 🔭 I’m teacher
+
+- 🌱 I’m learning **HTML, CSS, JAVASCRIPT, NODE**
+
+- 📫 How to reach me **mairabassetto@gmail.com**
 
 <!--
 **mairabassetto/mairabassetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
